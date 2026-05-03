@@ -33,13 +33,24 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
-		title: "Firefly Docs",
-		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
-		desc: "Firefly主题模板文档",
-		siteurl: "https://docs-firefly.cuteleaf.cn",
-		tags: ["Docs"],
-		weight: 9,
-		enabled: true,
+		title: "悍匪组队交流群",
+		imgurl:
+			"https://cdn.phototourl.com/free/2026-05-03-1298aca6-35d3-4348-bde0-39a6c12524b3.jpg",
+		desc: "为了更强大的力量，加入我们吧！",
+		siteurl: "https://qun.qq.com/universal-share/share?ac=1&authKey=VAuUWJwnPj%2FmlQhPgmCHez0ZvlNRsc8gkRdZhck7wowM2nA3HiH1bZVyaFcCV%2FQ0&busi_data=eyJncm91cENvZGUiOiIxMDc3NjkxMzY3IiwidG9rZW4iOiJCSHpHUlJlMVRqTVc5emY5c1ppeXZ6MXM3ODh0eStRcjBrWE1DRHpiUWF5UFAwQlN3ZW9Id09WZ3RvbGxWSC93IiwidWluIjoiMjExNjk0MzYyMSJ9&data=1Q8HIqxCv5oKO5zW5RC4tDLEMp9QQWQn_mBVAVJHkVt1gVXH9IModeCi5xAEBLpyNGBIrC1LReV8sysMv7-rFw&svctype=4&tempid=h5_group_info",
+		tags: ["组队交流群"],
+		weight: 5, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
+		title: "𝐴𝑢𝑟𝑜𝑟𝑎交流群",
+		imgurl:
+			"https://cdn.phototourl.com/free/2026-05-03-74c6ea78-c9e7-46d6-9149-99709c9b7cf3.jpg",
+		desc: "HVH交流群,欢迎加入!",
+		siteurl: "https://qm.qq.com/q/kcwm9MHsRO",
+		tags: ["组队交流群"],
+		weight: 4, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
 	},
 	{
 		title: "Astro",

@@ -48,7 +48,7 @@ export const friendsConfig: FriendLink[] = [
 			"https://cdn.phototourl.com/free/2026-05-03-74c6ea78-c9e7-46d6-9149-99709c9b7cf3.jpg",
 		desc: "HVH交流群,欢迎加入!",
 		siteurl: "https://qm.qq.com/q/kcwm9MHsRO",
-		tags: ["组队交流"],
+		tags: ["组队交流群"],
 		weight: 4, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
